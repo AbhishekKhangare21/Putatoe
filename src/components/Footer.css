@@ -1,0 +1,77 @@
+.footer {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #00838f;
+  margin-top: 0.5rem !important;
+}
+
+.container {
+  max-width: 1140px;
+  display: flex;
+  margin-right: 15px;
+  justify-content: space-between;
+  margin-left: 165px;
+}
+
+.footer__about__logo {
+  margin-bottom: 15px;
+}
+
+.footer__about__logo > img {
+  vertical-align: middle;
+  border-style: none;
+}
+
+.footer__about__brand p {
+  color: white;
+  font-weight: bold;
+  font-size: 1.25em;
+
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  line-height: 1.2em;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.footer__widget {
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+.footer__widget h6 {
+  color: #ffffff;
+  font-weight: 700;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.footer__widget ul {
+  width: 100%;
+  float: left;
+  margin-bottom: 1rem;
+}
+
+.footer__widget ul li {
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  margin-top: 10px;
+}
+
+.footer__widget__social a {
+  display: inline-block;
+  height: 41px;
+  width: 41px;
+  font-size: 16px;
+  color: #404040;
+  border: 1px solid #ededed;
+  border-radius: 50%;
+  line-height: 38px;
+  text-align: center;
+  background: #ffffff;
+  transition: all, 0.3s;
+  margin-right: 10px;
+}

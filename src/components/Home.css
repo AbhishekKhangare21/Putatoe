@@ -1,0 +1,16 @@
+.heading {
+  margin-left: 120px;
+  padding: 25px 0px;
+  font-size: 36px;
+  color: #00838f;
+}
+.products {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  max-width: 80%;
+  margin: auto;
+}
+
+.products > img {
+  width: 350px;
+}

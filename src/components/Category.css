@@ -1,0 +1,32 @@
+.category {
+  padding-left: 95px;
+  background-color: #2095a2;
+  padding: 7px 80px;
+  margin: 0px;
+  margin: auto;
+  color: #fff;
+  padding-right: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.category .col-lg-2 div {
+  padding: 5px;
+  border-radius: 50%;
+  height: 38px;
+  width: 38px;
+  margin: auto;
+  margin-bottom: 9px;
+}
+.bg-white {
+  background-color: #fefefe !important;
+}
+
+.col-lg-2 {
+  font-size: 11px;
+  font-weight: 600;
+}
+.image {
+  width: 28px;
+}
